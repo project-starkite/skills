@@ -1,6 +1,6 @@
 {
   "name": "@project-starkite/skills",
-  "version": "0.11.6",
+  "version": "0.11.7",
   "description": "Official agent skills for Starkite automation DSL, Kubernetes, and cloud workflows",
   "keywords": [
     "starkite",
