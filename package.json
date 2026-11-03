@@ -1,0 +1,27 @@
+{
+  "name": "@project-starkite/skills",
+  "version": "0.11.5",
+  "description": "Official agent skills for Starkite automation DSL, Kubernetes, and cloud workflows",
+  "keywords": [
+    "starkite",
+    "starlark",
+    "agent-skills",
+    "skills",
+    "claude-code",
+    "cursor",
+    "antigravity",
+    "automation",
+    "kubernetes"
+  ],
+  "homepage": "https://starkite.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-starkite/skills.git"
+  },
+  "license": "Apache-2.0",
+  "skills": {
+    "starkite": "skills/starkite/SKILL.md",
+    "starkite-k8s": "skills/starkite-k8s/SKILL.md",
+    "starkite-cloud": "skills/starkite-cloud/SKILL.md"
+  }
+}
